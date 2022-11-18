@@ -516,8 +516,8 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .client__logo {
-    height: 9rem;
-    max-width: 18rem;
+    height: 15rem;
+    max-width: 20rem;
 }
 
 @media(max-width: 1240px) {
